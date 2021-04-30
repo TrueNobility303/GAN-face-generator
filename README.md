@@ -8,3 +8,7 @@
 * report.pdf 报告
 * \results 存放训练中生成的结果
 * \tensorboard 为tensorboard events的储存位置
+
+## 示例
+
+![demo](https://github.com/TrueNobility303/GAN-face-generator/blob/main/result/27.png)
